@@ -1,0 +1,7 @@
+C:\Users\Big D\Desktop\CoderByte Challenges\PentagonalNumber\PentagonalNumber\bin\Debug\PentagonalNumber.exe.config
+C:\Users\Big D\Desktop\CoderByte Challenges\PentagonalNumber\PentagonalNumber\bin\Debug\PentagonalNumber.exe
+C:\Users\Big D\Desktop\CoderByte Challenges\PentagonalNumber\PentagonalNumber\bin\Debug\PentagonalNumber.pdb
+C:\Users\Big D\Desktop\CoderByte Challenges\PentagonalNumber\PentagonalNumber\obj\Debug\PentagonalNumber.csprojResolveAssemblyReference.cache
+C:\Users\Big D\Desktop\CoderByte Challenges\PentagonalNumber\PentagonalNumber\obj\Debug\PentagonalNumber.csproj.CoreCompileInputs.cache
+C:\Users\Big D\Desktop\CoderByte Challenges\PentagonalNumber\PentagonalNumber\obj\Debug\PentagonalNumber.exe
+C:\Users\Big D\Desktop\CoderByte Challenges\PentagonalNumber\PentagonalNumber\obj\Debug\PentagonalNumber.pdb

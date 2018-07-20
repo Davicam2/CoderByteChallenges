@@ -1,0 +1,7 @@
+C:\Users\Big D\Desktop\CoderByte Challenges\ChessboardTraveling\ChessboardTraveling\bin\Debug\ChessboardTraveling.exe.config
+C:\Users\Big D\Desktop\CoderByte Challenges\ChessboardTraveling\ChessboardTraveling\bin\Debug\ChessboardTraveling.exe
+C:\Users\Big D\Desktop\CoderByte Challenges\ChessboardTraveling\ChessboardTraveling\bin\Debug\ChessboardTraveling.pdb
+C:\Users\Big D\Desktop\CoderByte Challenges\ChessboardTraveling\ChessboardTraveling\obj\Debug\ChessboardTraveling.csproj.CoreCompileInputs.cache
+C:\Users\Big D\Desktop\CoderByte Challenges\ChessboardTraveling\ChessboardTraveling\obj\Debug\ChessboardTraveling.exe
+C:\Users\Big D\Desktop\CoderByte Challenges\ChessboardTraveling\ChessboardTraveling\obj\Debug\ChessboardTraveling.pdb
+C:\Users\Big D\Desktop\CoderByte Challenges\ChessboardTraveling\ChessboardTraveling\obj\Debug\ChessboardTraveling.csprojResolveAssemblyReference.cache

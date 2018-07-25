@@ -9,9 +9,7 @@ namespace MaximumSquares
     class Program
     {
         static void Main(string[] args)
-        {
-           
-
+        {           
             Console.WriteLine("-This problem is called MaximalSquares.\r\n");
 
             Console.WriteLine("-For this program you will enter a series of 1s and 0s that go into a 4 row 2D format for parsing.\r\n" +
@@ -42,7 +40,7 @@ namespace MaximumSquares
             int _j = 0;
             int _i = 0;
             int count = 0;
-            //char[,] charArr = new char[strArr[0].Count(), strArr.Length];
+            
             char[,] charArr = new char[50, 50];
 
             foreach (string row in strArr)

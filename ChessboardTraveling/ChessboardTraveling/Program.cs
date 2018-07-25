@@ -10,7 +10,12 @@ namespace ChessboardTraveling
     {
         static void Main(string[] args)
         {
-            Console.Write( ChessboardRouts("(2 2)(4 5)"));
+            Console.WriteLine("\r\n-This Problem is called ChessBoardTraveling.\r\n");
+
+            Console.WriteLine("-The program takes in two positions on a 2D plane and outputs the amount of possible routs \r\n" +
+                          "from the first position to the second moving in any order of up and right cominations.");
+            
+            Console.Write( "\r\n-The amount of possible routs is " + ChessboardRouts("(2 2)(4 5)"));
             Console.ReadKey();
         }
 

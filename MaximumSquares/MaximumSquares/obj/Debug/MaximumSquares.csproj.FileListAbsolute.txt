@@ -1,7 +1,6 @@
 C:\Users\Big D\Desktop\CoderByte Challenges\MaximumSquares\MaximumSquares\bin\Debug\MaximumSquares.exe.config
 C:\Users\Big D\Desktop\CoderByte Challenges\MaximumSquares\MaximumSquares\bin\Debug\MaximumSquares.exe
 C:\Users\Big D\Desktop\CoderByte Challenges\MaximumSquares\MaximumSquares\bin\Debug\MaximumSquares.pdb
-C:\Users\Big D\Desktop\CoderByte Challenges\MaximumSquares\MaximumSquares\obj\Debug\MaximumSquares.csprojResolveAssemblyReference.cache
 C:\Users\Big D\Desktop\CoderByte Challenges\MaximumSquares\MaximumSquares\obj\Debug\MaximumSquares.csproj.CoreCompileInputs.cache
 C:\Users\Big D\Desktop\CoderByte Challenges\MaximumSquares\MaximumSquares\obj\Debug\MaximumSquares.exe
 C:\Users\Big D\Desktop\CoderByte Challenges\MaximumSquares\MaximumSquares\obj\Debug\MaximumSquares.pdb

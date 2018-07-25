@@ -10,13 +10,28 @@ namespace MaximumSquares
     {
         static void Main(string[] args)
         {
-            string[] strArr = new string[4];
+           
+
+            Console.WriteLine("-This problem is called MaximalSquares.\r\n");
+
+            Console.WriteLine("-For this program you will enter a series of 1s and 0s that go into a 4 row 2D format for parsing.\r\n" +
+                              " Once they have been entered you will be told the amount of square sections of 1s are present in the array.\r\n" +
+                              "-Please enter a series of 1s and 0s, then press enter to move to the next row in the array.\r\n" +
+                              "-keep it to 50 chars plz!");
+            Console.WriteLine("enter nuber of columns you want. *LIMIT 50!*");
+            int.TryParse(Console.ReadLine(), out int columns);
+            string[] strArr = new string[columns];
+            
+            Console.WriteLine("________________________________________________");
+
             int i = 0;
             while (i < strArr.Length)
             {
                 strArr[i] = Console.ReadLine();
                 i++;
             }
+
+
             Console.WriteLine("\r\n" + "the maximum number of squares is-" + MaximalSquares(strArr));
             Console.ReadLine();
         }
@@ -27,11 +42,13 @@ namespace MaximumSquares
             int _j = 0;
             int _i = 0;
             int count = 0;
-            char[,] charArr = new char[strArr[0].Count(), strArr.Length];
+            //char[,] charArr = new char[strArr[0].Count(), strArr.Length];
+            char[,] charArr = new char[50, 50];
 
             foreach (string row in strArr)
             {
                 _i = 0;
+                
                 foreach (char digit in row)
                 {
                     charArr[_i, _j] = digit;

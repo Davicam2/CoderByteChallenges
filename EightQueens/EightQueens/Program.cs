@@ -10,7 +10,14 @@ namespace EightQueens
     {
         static void Main(string[] args)
         {
-            string[] queens = {"(2,1)","(5,3)","(6,3)","(8,4)","(3,4)","(1,8)","(7,7)","(5,8)"};
+            string[] queens = {"(2,1)","(5,3)","(9,8)","(8,4)","(3,4)","(1,8)","(7,7)","(5,8)"};
+
+            Console.WriteLine("-This Problem is called EightQueens.\r\n");
+
+            Console.WriteLine("-the program takes in a string array of coordinate pairs between 1 and 9 and \r\n" +
+                              "returns the pair of queens that have intersecting lanes of travel.\r\n");
+            Console.WriteLine(string.Format("The Queens are at {0} {1} {2} {3} {4} {5} {6} {7}\r\n",
+                              queens[0],queens[1],queens[2],queens[3],queens[4],queens[5],queens[6],queens[7]) );
 
             Console.WriteLine(QueenFight(queens));
             Console.ReadLine();
@@ -35,10 +42,10 @@ namespace EightQueens
             {
                 for (int j = i + 1; j < queens.Length - 1; j++)
                 {
-                    if (x[i] == x[j] || y[i] == y[j])
-                        return "(" + x[i] + "," + y[i] + ")";
-                    if (x[i] - y[i] == x[j] - y[j])
-                        return "(" + x[i] + "," + y[i] + ")";
+                    if (x[i] == x[j] || y[i] == y[j])//perpendicular
+                        return "(" + x[i] + "," + y[i] + ")" + " " + "(" + x[j] + "," + y[j] + ")";
+                    if (x[i] - y[i] == x[j] - y[j])//diagonal
+                        return "(" + x[i] + "," + y[i] + ")" + " " + "(" + x[j] + "," + y[j] + ")";
                 }
             }
             return "NOH";

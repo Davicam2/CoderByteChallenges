@@ -5,3 +5,10 @@ C:\Users\Big D\Desktop\CoderByte Challenges\ScaleBalancing\ScaleBalancing\ScaleB
 C:\Users\Big D\Desktop\CoderByte Challenges\ScaleBalancing\ScaleBalancing\ScaleBalancing\obj\Debug\ScaleBalancing.csproj.CoreCompileInputs.cache
 C:\Users\Big D\Desktop\CoderByte Challenges\ScaleBalancing\ScaleBalancing\ScaleBalancing\obj\Debug\ScaleBalancing.exe
 C:\Users\Big D\Desktop\CoderByte Challenges\ScaleBalancing\ScaleBalancing\ScaleBalancing\obj\Debug\ScaleBalancing.pdb
+C:\Users\Big D\Desktop\CoderByteChallenges\ScaleBalancing\ScaleBalancing\ScaleBalancing\bin\Debug\ScaleBalancing.exe.config
+C:\Users\Big D\Desktop\CoderByteChallenges\ScaleBalancing\ScaleBalancing\ScaleBalancing\bin\Debug\ScaleBalancing.exe
+C:\Users\Big D\Desktop\CoderByteChallenges\ScaleBalancing\ScaleBalancing\ScaleBalancing\bin\Debug\ScaleBalancing.pdb
+C:\Users\Big D\Desktop\CoderByteChallenges\ScaleBalancing\ScaleBalancing\ScaleBalancing\obj\Debug\ScaleBalancing.csprojResolveAssemblyReference.cache
+C:\Users\Big D\Desktop\CoderByteChallenges\ScaleBalancing\ScaleBalancing\ScaleBalancing\obj\Debug\ScaleBalancing.csproj.CoreCompileInputs.cache
+C:\Users\Big D\Desktop\CoderByteChallenges\ScaleBalancing\ScaleBalancing\ScaleBalancing\obj\Debug\ScaleBalancing.exe
+C:\Users\Big D\Desktop\CoderByteChallenges\ScaleBalancing\ScaleBalancing\ScaleBalancing\obj\Debug\ScaleBalancing.pdb

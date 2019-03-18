@@ -13,7 +13,7 @@ namespace MaximumSquares
             Console.WriteLine("-This problem is called MaximalSquares.\r\n");
 
             Console.WriteLine("-For this program you will enter a series of 1s and 0s that go into a 4 row 2D format for parsing.\r\n" +
-                              " Once they have been entered you will be told the amount of square sections of 1s are present in the array.\r\n" +
+                              " Once they have been entered you will be told the amount of square sections of 1s that are present in the array.\r\n" +
                               "-Please enter a series of 1s and 0s, then press enter to move to the next row in the array.\r\n" +
                               "-keep it to 50 chars plz!");
             Console.WriteLine("enter the number of columns you want. *LIMIT 50!*");

@@ -16,7 +16,7 @@ namespace MaximumSquares
                               " Once they have been entered you will be told the amount of square sections of 1s are present in the array.\r\n" +
                               "-Please enter a series of 1s and 0s, then press enter to move to the next row in the array.\r\n" +
                               "-keep it to 50 chars plz!");
-            Console.WriteLine("enter nuber of columns you want. *LIMIT 50!*");
+            Console.WriteLine("enter the number of columns you want. *LIMIT 50!*");
             int.TryParse(Console.ReadLine(), out int columns);
             string[] strArr = new string[columns];
             
